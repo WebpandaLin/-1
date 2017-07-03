@@ -1,13 +1,27 @@
 # -1
 基于JQ的轮播
+
+
+
+
+
+
+
+
+
+
+
+
 <!DOCTYPE html>
 <html>
 	<head>
 		<meta charset="UTF-8">
     <title>Carusel</title>
 		<script type="text/javascript" src="js/jquery-3.1.1.min.js"></script>
+		
+		
+		
     <style>
-    
 h1{
 	text-align: center;
 	margin-bottom: 20px;
